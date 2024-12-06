@@ -21,7 +21,7 @@ repository               : "JackSimbol/jacksimbol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "github.png"
   name             : "Xingbo Wang (王星博)"
   pronouns         : # example: "she/her"  
   bio              : "Phd student. Game AI, multi-agent systems and reinforcement learning."
