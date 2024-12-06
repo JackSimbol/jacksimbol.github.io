@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. WenXin Li](https://ai.pku.edu.cn/ryd
 
 Selected Publications
 ======
-Yizhe Huang*, *Xingbo Wang\**, Hao Liu, Fanqi Kong, Aoyang Qin, Min Tang, Xiaoxi Wang, Song-Chun Zhu, Mingjie Bi, Siyuan Qi, Xue Feng. AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making. The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2024.
+Yizhe Huang*, **Xingbo Wang\***, Hao Liu, Fanqi Kong, Aoyang Qin, Min Tang, Xiaoxi Wang, Song-Chun Zhu, Mingjie Bi, Siyuan Qi, Xue Feng. AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making. The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2024.
 
 Getting started
 ======
